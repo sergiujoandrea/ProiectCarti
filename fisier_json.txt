@@ -1,0 +1,5001 @@
+{
+    "LEGO Star Wars: Awesome Jedi Tales": [
+        "Ace Landers",
+        "48,99 lei"
+    ]
+}{
+    "Star Wars. Statia spatiala a mortii. Carte de activitati": [
+        "***",
+        "5,59 lei"
+    ]
+}{
+    "Star Wars. Raidul Rebelilor. Carte de activitati": [
+        "***",
+        "5,75 lei"
+    ]
+}{
+    "Darth Plagueis: Star Wars Legends, Paperback": [
+        "James Luceno",
+        "48,99 lei"
+    ]
+}{
+    "Star Wars: Kenobi, Paperback": [
+        "John Jackson Miller",
+        "50 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars. O noua speranta": [
+        "Alexandra Braken",
+        "5,51 lei"
+    ]
+}{
+    "Star Wars Myths and Fables, Hardback": [
+        "George Mann",
+        "102 lei"
+    ]
+}{
+    "Star Wars - Galaxy's Edge: The Official Black Spire Outpost Cookbook, Hardback": [
+        "Chelsea Monroe-Cassel",
+        "153 lei"
+    ]
+}{
+    "Star Wars: Resistance Reborn, Hardback": [
+        "Rebecca Roanhorse",
+        "122 lei"
+    ]
+}{
+    "Crochet Star Wars Characters": [
+        "Lucy Collin",
+        "74,99 lei"
+    ]
+}{
+    "Labyrinth of Evil: Star Wars Legends": [
+        "James Luceno",
+        "39,99 lei"
+    ]
+}{
+    "Star Wars Lost Tribe of the Sith: The Collected Stories, Paperback": [
+        "John Jackson Miller",
+        "60,99 lei"
+    ]
+}{
+    "Star Wars: Thrawn, Paperback": [
+        "Timothy Zahn",
+        "68 lei"
+    ]
+}{
+    "Outbound Flight: Star Wars Legends, Paperback": [
+        "Timothy Zahn",
+        "40,99 lei"
+    ]
+}{
+    "Path of Destruction: Star Wars Legends (Darth Bane): A Novel of the Old Republic, Paperback": [
+        "Drew Karpyshyn",
+        "39,99 lei"
+    ]
+}{
+    "Star Wars: A New Dawn, Paperback": [
+        "John Jackson Miller",
+        "60,99 lei"
+    ]
+}{
+    "DK Readers L2: Star Wars: Clone Troopers in Action, Paperback": [
+        "Clare Hibbert",
+        "25,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Episode IV: A New Hope, Hardcover": [
+        "George Lucas",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars. Trezirea fortei - Dictionar vizual": [
+        "***",
+        "41,88 lei"
+    ]
+}{
+    "Star Wars. Razboiul galactic": [
+        "***",
+        "35,46 lei"
+    ]
+}{
+    "Star Wars Sith Wars": [
+        "***",
+        "23 lei"
+    ]
+}{
+    "Star Wars Rebels. Jurnal de rebel": [
+        "Ezra Bridger",
+        "35,46 lei"
+    ]
+}{
+    "Star Wars: The Mandalorian: Allies & Enemies Level 2 Reader, Paperback": [
+        "Brooke Vitale",
+        "23,99 lei"
+    ]
+}{
+    "Star Wars: The Mandalorian Season 2 Poster Book, Paperback": [
+        "***",
+        "36,99 lei"
+    ]
+}{
+    "Star Wars Be More Vader. Assertive Thinking from the Dark Side, Hardback": [
+        "Christian Blauvelt",
+        "46 lei"
+    ]
+}{
+    "LEGO Star Wars The Rise of Skywalker, Hardback": [
+        "Ruth Amos",
+        "34 lei"
+    ]
+}{
+    "Star Wars Unfolds, Hardback": [
+        "***",
+        "99 lei"
+    ]
+}{
+    "Star Wars Rebel Starfighters Owners' Workshop Manual. Alliance and Resistance Models, Hardback": [
+        "Ryder Windham",
+        "141 lei"
+    ]
+}{
+    "Star Wars The Rise of Skywalker The Visual Dictionary": [
+        "Pablo Hidalgo",
+        "152,99 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars - The Clone Wars, Paperback": [
+        "Jeremy Barlow",
+        "35 lei"
+    ]
+}{
+    "Star Wars: Jedi Trilogy Boxed Set": [
+        "Kevin Anderson",
+        "118,99 lei"
+    ]
+}{
+    "Star Wars Search and Find Vol. I, Hardcover": [
+        "Art Mawhinney",
+        "52,99 lei"
+    ]
+}{
+    "Star Wars Art: Posters (Star Wars Art Series), Hardcover": [
+        "Lucasfilm Ltd",
+        "183,99 lei"
+    ]
+}{
+    "Star Wars: From a Certain Point of View, Paperback": [
+        "***",
+        "60,99 lei"
+    ]
+}{
+    "Star Wars: Bloodline, Paperback": [
+        "Claudia Gray",
+        "68 lei"
+    ]
+}{
+    "Slave Ship: Star Wars Legends (the Bounty Hunter Wars)": [
+        "K. W. Jeter",
+        "39,99 lei"
+    ]
+}{
+    "Thrawn (Star Wars), Paperback": [
+        "Timothy Zahn",
+        "47 lei"
+    ]
+}{
+    "Star Wars Be More Yoda, Hardcover": [
+        "***",
+        "42,99 lei"
+    ]
+}{
+    "The Paradise Snare: Star Wars Legends (the Han Solo Trilogy)": [
+        "A. C. Crispin",
+        "37 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Honor Among Thieves: Star Wars Legends": [
+        "James S. a. Corey",
+        "39,99 lei"
+    ]
+}{
+    "Star Wars Episode I the Phantom Menace, Paperback": [
+        "Patricia C. Wrede",
+        "35,99 lei"
+    ]
+}{
+    "Shadow Hunter: Star Wars Legends (Darth Maul), Paperback": [
+        "Michael Reaves",
+        "37 lei"
+    ]
+}{
+    "The Physics of Star Wars: The Science Behind a Galaxy Far, Far Away, Paperback": [
+        "Patrick Johnson",
+        "66,99 lei"
+    ]
+}{
+    "Star Wars Workbook: 3rd Grade Math, Paperback": [
+        "Workman Publishing",
+        "42 lei"
+    ]
+}{
+    "Star Wars: Tarkin, Paperback": [
+        "James Luceno",
+        "68 lei"
+    ]
+}{
+    "I Am a Droid (Star Wars), Hardcover": [
+        "***",
+        "25,99 lei"
+    ]
+}{
+    "Star Wars: Scoundrels, Paperback": [
+        "Timothy Zahn",
+        "41,99 lei"
+    ]
+}{
+    "Star Wars: Darth Bane - Path of Destruction, Paperback": [
+        "Drew Karpyshyn",
+        "60,99 lei"
+    ]
+}{
+    "Star Wars Workbook: 3rd Grade Reading and Writing, Paperback": [
+        "Workman Publishing",
+        "42 lei"
+    ]
+}{
+    "Star Wars Complete Locations Updated Edition, Hardcover": [
+        "DK",
+        "182,99 lei"
+    ]
+}{
+    "Red Harvest: Star Wars Legends, Paperback": [
+        "Joe Schreiber",
+        "39,99 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars Episode IV: A New Hope: Novelization, Paperback": [
+        "Ryder Windham",
+        "38 lei"
+    ]
+}{
+    "Star Wars: Adventures in Wild Space: The Heist, Paperback": [
+        "Cavan Scott",
+        "36,99 lei"
+    ]
+}{
+    "Star Wars: The Force Awakens": [
+        "Alan Dean Foster",
+        "54,99 lei"
+    ]
+}{
+    "LEGO Star Wars Yoda's Jedi Army Ultimate Sticker Book": [
+        "***",
+        "30,99 lei"
+    ]
+}{
+    "LEGO Star Wars Attack of the Clones": [
+        "***",
+        "30,99 lei"
+    ]
+}{
+    "Star Wars Origami: 36 Amazing Models from a Galaxy Far, Far Away": [
+        "Chris Alexander",
+        "78,99 lei"
+    ]
+}{
+    "LEGO Star Wars Empire Strikes Back": [
+        "***",
+        "30,99 lei"
+    ]
+}{
+    "Star Wars: Lost Stars": [
+        "Claudia Gray",
+        "64,99 lei"
+    ]
+}{
+    "Star Wars Complete Visual Dictionary - Enlish version": [
+        "***",
+        "182,99 lei"
+    ]
+}{
+    "World of Reading: Star Wars Galaxy of Adventures: Heroes & Villains (Level 2), Paperback": [
+        "Lucasfilm Press",
+        "23,99 lei"
+    ]
+}{
+    "Lego Star Wars Visual Dictionary New Edition: With Exclusive Finn Minifigure [With Toy], Hardcover": [
+        "DK",
+        "124,99 lei"
+    ]
+}{
+    "The Complete Star Wars(r) Encyclopedia, Hardcover": [
+        "Stephen J. Sansweet",
+        "775,99 lei"
+    ]
+}{
+    "The Last Jedi: Expanded Edition (Star Wars)": [
+        "Jason Fry",
+        "47 lei"
+    ]
+}{
+    "The Last Jedi: Expanded Edition (Star Wars)": [
+        "Jason Fry",
+        "47 lei"
+    ]
+}{
+    "The Last Jedi: Expanded Edition (Star Wars)": [
+        "Jason Fry",
+        "47 lei"
+    ]
+}{
+    "The Last Jedi: Expanded Edition (Star Wars)": [
+        "Jason Fry",
+        "47 lei"
+    ]
+}{
+    "The Last Jedi: Expanded Edition (Star Wars)": [
+        "Jason Fry",
+        "47 lei"
+    ]
+}{
+    "Solo: A Star Wars Story: Expanded Edition": [
+        "Mur Lafferty",
+        "50,99 lei"
+    ]
+}{
+    "Ultimate Star Wars, New Edition: The Definitive Guide to the Star Wars Universe, Hardcover": [
+        "Adam Bray",
+        "209 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi (Star Wars), Hardcover": [
+        "Elizabeth Schaefer",
+        "23,99 lei"
+    ]
+}{
+    "Star Wars Adventures: Tales from Vader's Castle, Paperback": [
+        "Cavan Scott",
+        "65,99 lei"
+    ]
+}{
+    "Star Wars: The Rise of Skywalker Movie Special, Hardcover": [
+        "Titan",
+        "91,99 lei"
+    ]
+}{
+    "Thrawn: Alliances (Star Wars), Hardcover": [
+        "Timothy Zahn",
+        "134 lei"
+    ]
+}{
+    "Star Wars: Maul: Lockdown, Paperback": [
+        "Joe Schreiber",
+        "60,99 lei"
+    ]
+}{
+    "Battlefront: Twilight Company (Star Wars), Paperback": [
+        "Alexander Freed",
+        "50,99 lei"
+    ]
+}{
+    "Star Wars: Dark Disciple, Paperback": [
+        "Christie Golden",
+        "60,99 lei"
+    ]
+}{
+    "The Art of Star Wars: The Rise of Skywalker, Hardcover": [
+        "Phil Szostak",
+        "202 lei"
+    ]
+}{
+    "Star Wars: Dawn of the Jedi: Into the Void, Paperback": [
+        "Tim Lebbon",
+        "68 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "A New Dawn: Star Wars, Paperback": [
+        "John Jackson Miller",
+        "50,99 lei"
+    ]
+}{
+    "Star Wars: 10-Button Sound: Heroes, Board book": [
+        "***",
+        "65,98 lei"
+    ]
+}{
+    "Star Wars the Clone Wars: Stories of Light and Dark, Hardcover": [
+        "Lou Anders",
+        "91,99 lei"
+    ]
+}{
+    "Resistance Reborn (Star Wars), Paperback": [
+        "Rebecca Roanhorse",
+        "46,99 lei"
+    ]
+}{
+    "The Rise of Skywalker (Star Wars), Paperback": [
+        "***",
+        "69,98 lei"
+    ]
+}{
+    "Star Wars: Fascinating Facts, Hardcover": [
+        "Pablo Hidalgo",
+        "73,98 lei"
+    ]
+}{
+    "The Princess Dessert Cookbook: Desserts Inspired by Disney, Star Wars, Classic Fairy Tales, Real-Life Princesses, and More!": [
+        "Aur\u00e9lia Beaupommier",
+        "80,98 lei"
+    ]
+}{
+    "Star Wars: Thrawn Ascendancy. (Book 1: Chaos Rising), Hardback": [
+        "Timothy Zahn",
+        "121,99 lei"
+    ]
+}{
+    "Star Wars: Rise of Skywalker (Expanded Edition), Paperback": [
+        "Rae Carson",
+        "60,99 lei"
+    ]
+}{
+    "Star Wars Origami 2: 34 More Projects from a Galaxy Far, Far Away. . . ., Paperback": [
+        "Chris Alexander",
+        "97,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars, Paperback": [
+        "Will Brooker",
+        "82,99 lei"
+    ]
+}{
+    "My Composition Book: STAR WARS Themed Draw and Write Composition Book for Kids ( Preschool, Kindergarten, Grade 1 and 2), Paperback": [
+        "Mamma Margaret",
+        "40 lei"
+    ]
+}{
+    "Star Wars: Rebel Starfighters: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "We Are Mayhem: A Black Star Renegades Novel, Paperback": [
+        "Michael Moreci",
+        "90 lei"
+    ]
+}{
+    "Star Wars: The Ultimate Pop-Up Galaxy (Pop Up Books for Star Wars Fans), Hardcover": [
+        "Matthew Reinhart",
+        "420,99 lei"
+    ]
+}{
+    "Star Wars: Where's the Wookiee? the Search Continues..., Hardcover": [
+        "Editors of Studio Fun International",
+        "61 lei"
+    ]
+}{
+    "Star Wars Use the Force!: Discover What It Takes to Be a Jedi, Hardcover": [
+        "Christian Blauvelt",
+        "90 lei"
+    ]
+}{
+    "Star Wars Adventures: Return to Vader's Castle, Paperback": [
+        "Cavan Scott",
+        "75 lei"
+    ]
+}{
+    "Star Wars: Trivia Quiz Facts, Paperback": [
+        "Varda Toussaint",
+        "40 lei"
+    ]
+}{
+    "Star Wars: 10-Button Sounds: Villains, Hardcover": [
+        "Benjamin Harper",
+        "72 lei"
+    ]
+}{
+    "Star Wars Meet the Villains Darth Vader, Hardback": [
+        "Ruth Amos",
+        "34 lei"
+    ]
+}{
+    "Resistance Reborn (Star Wars). Journey to Star Wars: The Rise of Skywalker, Paperback": [
+        "Rebecca Roanhorse",
+        "110 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars Meet the Heroes R2-D2, Hardback": [
+        "Emma Grange",
+        "34 lei"
+    ]
+}{
+    "Star Wars for Accordion, Paperback": [
+        "John Williams",
+        "66,99 lei"
+    ]
+}{
+    "The Star Wars Rings: The Hidden Structure Behind the Star Wars Story, Paperback": [
+        "Tomas Pueyo Brochard",
+        "85,99 lei"
+    ]
+}{
+    "Cook Like a Jedi: Best Recipes from a Star Wars Menu, Paperback": [
+        "Susan Gray",
+        "72,99 lei"
+    ]
+}{
+    "The Tao of the Jedi: The Tao Te Ching Meets Star Wars, Paperback": [
+        "Lao Tzu",
+        "53,99 lei"
+    ]
+}{
+    "Giant Bug Movies of the 1950s: (Sci-Fi Before Star Wars, vol. 2), Paperback": [
+        "Jon Abbott",
+        "53,99 lei"
+    ]
+}{
+    "Star Wars: Trouble on Tatooine, Hardcover": [
+        "Nate MILLICI",
+        "134,99 lei"
+    ]
+}{
+    "Star Wars: Word Search Book: 50 Word Search Puzzles, Paperback": [
+        "Helen Kachanovska",
+        "42 lei"
+    ]
+}{
+    "Star Wars Galaxy of Adventures, Paperback": [
+        "Lucasfilm Press",
+        "30 lei"
+    ]
+}{
+    "Adult Coloring Book: Star Wars: (Booklet), Paperback": [
+        "Deviant Coloring Books",
+        "54,99 lei"
+    ]
+}{
+    "Star Wars Coloring Book, Paperback": [
+        "Nadiya Zabolotnaya",
+        "42 lei"
+    ]
+}{
+    "Star Wars: The Fight in the Forest, Hardcover": [
+        "Nate MILLICI",
+        "134,99 lei"
+    ]
+}{
+    "Star Wars Episode IV - A New Hope Trivia Crossword Word Search & Sudoku Activity Puzzle Book: Movie Cast & Characters Edition, Paperback": [
+        "Mega Media Depot",
+        "114,99 lei"
+    ]
+}{
+    "Star Wars Episode IV - A New Hope Trivia Crossword Word Search & Sudoku Activity Puzzle Book: Movie Cast & Characters Edition, Paperback": [
+        "Mega Media Depot",
+        "114,99 lei"
+    ]
+}{
+    "Star Wars Episode IV - A New Hope Trivia Crossword Word Search & Sudoku Activity Puzzle Book: Movie Cast & Characters Edition, Paperback": [
+        "Mega Media Depot",
+        "114,99 lei"
+    ]
+}{
+    "Star Wars Episode IV - A New Hope Trivia Crossword Word Search & Sudoku Activity Puzzle Book: Movie Cast & Characters Edition, Paperback": [
+        "Mega Media Depot",
+        "114,99 lei"
+    ]
+}{
+    "Star Wars Episode IV - A New Hope Trivia Crossword Word Search & Sudoku Activity Puzzle Book: Movie Cast & Characters Edition, Paperback": [
+        "Mega Media Depot",
+        "114,99 lei"
+    ]
+}{
+    "Star Wars Episode IV - A New Hope Trivia Crossword Word Search & Sudoku Activity Puzzle Book: Movie Cast & Characters Edition, Paperback": [
+        "Mega Media Depot",
+        "114,99 lei"
+    ]
+}{
+    "Star Wars Episode IV - A New Hope Trivia Crossword Word Search & Sudoku Activity Puzzle Book: Movie Cast & Characters Edition, Paperback": [
+        "Mega Media Depot",
+        "114,99 lei"
+    ]
+}{
+    "The Rise and Fall of the First Galactic Empire: Star Wars and Political Philosophy, Paperback": [
+        "Matthew McCaffrey",
+        "51 lei"
+    ]
+}{
+    "Star Wars: 39-Button Sound: Epic Battles, Hardcover": [
+        "Benjamin Harper",
+        "133,99 lei"
+    ]
+}{
+    "The Galaxy Britain Built - The British Talent Behind Star Wars (hardback), Hardcover": [
+        "David Whiteley",
+        "210,99 lei"
+    ]
+}{
+    "Cook Like a Jedi: Best Recipes from a Star Wars Menu, Paperback": [
+        "Susan Gray",
+        "116,99 lei"
+    ]
+}{
+    "Sorry About the Mess: A Star Wars Fan's Journey Through YouTube, Fandom, Social Media, Fatherhood, and Life, Paperback": [
+        "Hellogreedo",
+        "65,99 lei"
+    ]
+}{
+    "The Super Cool Science of Star Wars: The Saber-Swirling Science Behind the Death Star, Aliens, and Life in That Galaxy Far, Far Away!, Paperback": [
+        "Mark Brake",
+        "65 lei"
+    ]
+}{
+    "Lego Star Wars Character Encyclopedia New Edition (Library Edition), Hardcover": [
+        "Elizabeth Dowsett",
+        "108,99 lei"
+    ]
+}{
+    "Star Wars Be More Box Set, Hardcover": [
+        "Christian Blauvelt",
+        "193,99 lei"
+    ]
+}{
+    "Universo Star Wars: Segunda Edicin, Hardcover": [
+        "DK",
+        "235 lei"
+    ]
+}{
+    "Star Wars: Age of Resistance, Hardcover": [
+        "Tom Taylor",
+        "173,99 lei"
+    ]
+}{
+    "Shadow Fall (Star Wars): An Alphabet Squadron Novel, Hardcover": [
+        "Alexander Freed",
+        "143,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Darth Vader - Dark Lord of the Sith Vol. 2, Hardcover": [
+        "Charles Soule",
+        "173,99 lei"
+    ]
+}{
+    "Star Wars: Fate of the Jedi - Abyss, Paperback": [
+        "Troy Denning",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Clone Wars Gambit - Siege, Paperback": [
+        "Karen Miller",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Fate of the Jedi: Ascension, Paperback": [
+        "Christie Golden",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Where's the Wookiee 3? Search and Find Activity Book, Hardback": [
+        "***",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Legacy of the Force IV - Exile, Paperback": [
+        "Aaron Allston",
+        "61 lei"
+    ]
+}{
+    "Star Wars - The Essential Reader's Companion, Paperback": [
+        "Jeff Carlisle",
+        "153 lei"
+    ]
+}{
+    "Star Wars: Outbound Flight, Paperback": [
+        "Timothy Zahn",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Rogue Planet, Paperback": [
+        "Greg Bear",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Legacy of the Force IX - Invincible, Paperback": [
+        "Troy Denning",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Knight Errant, Paperback": [
+        "John Jackson Miller",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Cloak Of Deception, Paperback": [
+        "James Luceno",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: Darth Maul Shadow Hunter, Paperback": [
+        "Michael Reaves",
+        "61 lei"
+    ]
+}{
+    "Star Wars: 12 Classics from a Galaxy Far, Far Away, Paperback": [
+        "John Williams",
+        "74,99 lei"
+    ]
+}{
+    "Star Wars: The Best of Star Wars Insider: Volume 2, Paperback": [
+        "Titan",
+        "96,99 lei"
+    ]
+}{
+    "Jedi vs. Sith: Star Wars: The Essential Guide to the Force, Paperback": [
+        "Ryder Windham",
+        "176,99 lei"
+    ]
+}{
+    "Mercy Kill: Star Wars Legends (X-Wing)": [
+        "Aaron Allston",
+        "40,99 lei"
+    ]
+}{
+    "Rogue Planet: Star Wars Legends": [
+        "Greg Bear",
+        "39,99 lei"
+    ]
+}{
+    "The Making of Star Wars: Return of the Jedi, Hardcover": [
+        "J. W. Rinzler",
+        "490,99 lei"
+    ]
+}{
+    "Circle It, Star Wars Facts, Word Search, Puzzle Book, Paperback": [
+        "Lowry Global Media LLC",
+        "115,99 lei"
+    ]
+}{
+    "Star Wars: The Ultimate Action Figure Collection, Paperback": [
+        "Stephen J. Sansweet",
+        "216,99 lei"
+    ]
+}{
+    "The Joiner King: Star Wars Legends (Dark Nest, Book I)": [
+        "Troy Denning",
+        "52,99 lei"
+    ]
+}{
+    "Star Wars: Solo Graphic Novel Adaptation, Paperback": [
+        "Alessandro Ferrari",
+        "50,99 lei"
+    ]
+}{
+    "Galaxy's Edge: Black Spire (Star Wars), Hardcover": [
+        "Delilah S. Dawson",
+        "176,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Lego Star Wars: Anakin: Space Pilot: Space Pilot (3d) [With 3-D Glasses], Hardcover": [
+        "Ace Landers",
+        "74,99 lei"
+    ]
+}{
+    "Vortex: Star Wars Legends (Fate of the Jedi)": [
+        "Troy Denning",
+        "38 lei"
+    ]
+}{
+    "Refugee: Star Wars Legends (the New Jedi Order: Force Heretic, Book II)": [
+        "Sean Williams",
+        "43 lei"
+    ]
+}{
+    "The Star Wars Cookbook: Wookiee Cookies and Other Galactic Recipes, Hardcover": [
+        "Robin Davis",
+        "87,99 lei"
+    ]
+}{
+    "The Swarm War: Star Wars Legends (Dark Nest, Book III)": [
+        "Troy Denning",
+        "45,99 lei"
+    ]
+}{
+    "The Secret History of Star Wars, Paperback": [
+        "Michael Kaminski",
+        "205,99 lei"
+    ]
+}{
+    "Star Wars: The Empire Strikes Back, Paperback": [
+        "Ryder Windham",
+        "40,99 lei"
+    ]
+}{
+    "Patterns of Force: Star Wars Legends (Coruscant Nights, Book III)": [
+        "Michael Reaves",
+        "44,99 lei"
+    ]
+}{
+    "The Making of Star Wars: The Empire Strikes Back, Hardcover": [
+        "J. W. Rinzler",
+        "397 lei"
+    ]
+}{
+    "The Approaching Storm: Star Wars Legends": [
+        "Alan Dean Foster",
+        "37 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One Adaptation, Hardcover": [
+        "Jody Houser",
+        "127,99 lei"
+    ]
+}{
+    "Star Wars: The Force Awakens Mad Libs, Paperback": [
+        "Eric Luper",
+        "25,99 lei"
+    ]
+}{
+    "Star Wars Rebels: Meet the Rebels, Paperback": [
+        "DK",
+        "22,99 lei"
+    ]
+}{
+    "Star Wars Coding Projects, Paperback": [
+        "***",
+        "79,99 lei"
+    ]
+}{
+    "Solo A Star Wars Story Ultimate Sticker Collection, Hardcover": [
+        "***",
+        "48,99 lei"
+    ]
+}{
+    "DK Readers L2: Star Wars: R2-D2 and Friends, Paperback": [
+        "Simon Beecroft",
+        "25,99 lei"
+    ]
+}{
+    "The Star Wars Little Golden Book Library, Hardcover": [
+        "***",
+        "148,99 lei"
+    ]
+}{
+    "Star Wars Ahsoka, Paperback": [
+        "E. K. Johnston",
+        "60,99 lei"
+    ]
+}{
+    "Star Wars: The Adventures of Han Solo, Paperback": [
+        "Lindsay Kent",
+        "22,99 lei"
+    ]
+}{
+    "Star Wars: Heir to the Jedi, Paperback": [
+        "Kevin Hearne",
+        "60,99 lei"
+    ]
+}{
+    "Empire's End: Aftermath (Star Wars), Paperback": [
+        "Chuck Wendig",
+        "50,99 lei"
+    ]
+}{
+    "LEGO Star Wars Choose Your Path, Hardcover": [
+        "***",
+        "102 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi Cobalt Squadron, Hardcover": [
+        "Elizabeth Wein",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: The Force Awakens: New Adventures, Paperback": [
+        "David Fentiman",
+        "20,99 lei"
+    ]
+}{
+    "Ultimate Star Wars, Hardcover": [
+        "Ryder Windham",
+        "225,99 lei"
+    ]
+}{
+    "DK Readers L0: Star Wars: Even Droids Need Friends!, Paperback": [
+        "Simon Beecroft",
+        "20,99 lei"
+    ]
+}{
+    "Star Wars: A New Hope Official Celebration Special, Hardcover": [
+        "Titan",
+        "110,99 lei"
+    ]
+}{
+    "Star Wars: Complete Locations, Hardcover": [
+        "Kristin Lund",
+        "186,99 lei"
+    ]
+}{
+    "Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away, Paperback": [
+        "Tim Leong",
+        "100,99 lei"
+    ]
+}{
+    "Star Wars: Rogue One: Secret Mission, Paperback": [
+        "Jason Fry",
+        "23,99 lei"
+    ]
+}{
+    "Star Wars: Death Star Owner's Technical Manual: Imperial DS-1 Orbital Battle Station, Hardcover": [
+        "Ryder Windham",
+        "148,99 lei"
+    ]
+}{
+    "Star Wars La Enciclopedia Visual, Hardcover": [
+        "Adam Bray",
+        "195,99 lei"
+    ]
+}{
+    "Star Wars Costumes: The Original Trilogy, Hardcover": [
+        "Brandon Alinger",
+        "306,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi: Rose and Finn's Mission, Paperback": [
+        "Ella Patrick",
+        "44,99 lei"
+    ]
+}{
+    "The Dharma of Star Wars, Paperback": [
+        "Matthew Bortolin",
+        "79 lei"
+    ]
+}{
+    "Journey to Star Wars: The Force Awakens Lost Stars, Hardcover": [
+        "Claudia Gray",
+        "98,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "Star Wars: Join the Resistance: Attack on Starkiller Base, Hardcover": [
+        "Ben Acker",
+        "79,99 lei"
+    ]
+}{
+    "LEGO Star Wars Free the Galaxy": [
+        "***",
+        "30,99 lei"
+    ]
+}{
+    "Star Wars Journey Through Space": [
+        "***",
+        "30,99 lei"
+    ]
+}{
+    "Star Wars Lost Stars, Vol. 3 (Manga), Paperback": [
+        "Claudia Gray",
+        "65 lei"
+    ]
+}{
+    "Lego Star Wars Build Your Own Adventure Galactic Missions [With Toy], Paperback": [
+        "DK",
+        "131,99 lei"
+    ]
+}{
+    "William Shakespeare's the Force Doth Awaken: Star Wars Part the Seventh, Hardcover": [
+        "Ian Doescher",
+        "73,99 lei"
+    ]
+}{
+    "Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious, Hardcover": [
+        "Pablo Hidalgo",
+        "202,99 lei"
+    ]
+}{
+    "From a Certain Point of View (Star Wars), Hardcover": [
+        "Renee Ahdieh",
+        "173,99 lei"
+    ]
+}{
+    "The Art of Star Wars Rebels, Hardcover": [
+        "Dan Wallace",
+        "213,99 lei"
+    ]
+}{
+    "Star Wars an Obi-wan & Anakin Adventure: A Choose Your Destiny Chapter Book, Paperback": [
+        "Cavan Scott",
+        "31,99 lei"
+    ]
+}{
+    "The Moviemaking Magic of Star Wars: Creatures & Aliens, Hardcover": [
+        "Mark Salisbury",
+        "151,99 lei"
+    ]
+}{
+    "Star Wars Myths & Fables, Hardcover": [
+        "Lucasfilm Press",
+        "109,99 lei"
+    ]
+}{
+    "Star Wars: Galaxy's Edge, Paperback": [
+        "Ethan Sacks",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars: The Secrets of the Jedi, Hardcover": [
+        "Marc Sumerak",
+        "124,99 lei"
+    ]
+}{
+    "Watching Skies: Star Wars, Spielberg and Us, Paperback": [
+        "Mark O'Connell",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Lost Stars, Volume 1, Paperback": [
+        "Claudia Gray",
+        "61 lei"
+    ]
+}{
+    "Star Wars Legends Epic Collection: The Newspaper Strips Vol. 2, Paperback": [
+        "Archie Goodwin",
+        "204,99 lei"
+    ]
+}{
+    "Canto Bight (Star Wars), Paperback": [
+        "Saladin Ahmed",
+        "50,99 lei"
+    ]
+}{
+    "Star Wars Lightsaber Thumb Wrestling, Hardcover": [
+        "***",
+        "60,99 lei"
+    ]
+}{
+    "Last Shot (Star Wars): A Han and Lando Novel": [
+        "Daniel Jose Older",
+        "50,99 lei"
+    ]
+}{
+    "Star Wars: Poe Dameron Vol. 4: Legend Found, Paperback": [
+        "Charles Soule",
+        "103,99 lei"
+    ]
+}{
+    "Star Wars: Age of Resistance - Villains, Paperback": [
+        "Tom Taylor",
+        "91,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Star Wars: Tie Fighter: Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "128,99 lei"
+    ]
+}{
+    "Thrawn: Treason (Star Wars), Hardcover": [
+        "Timothy Zahn",
+        "176,99 lei"
+    ]
+}{
+    "Star Wars Archives: 1977-1983, Hardcover": [
+        "***",
+        "959,99 lei"
+    ]
+}{
+    "Star Wars: The Last Jedi the Ultimate Guide, Paperback": [
+        "Titan",
+        "96,99 lei"
+    ]
+}{
+    "Star Wars: Age of Resistance - Heroes, Paperback": [
+        "Tom Taylor",
+        "91,99 lei"
+    ]
+}{
+    "Star Wars Who's Who in the Galaxy: A Character Storybook, Hardcover": [
+        "Ella Patrick",
+        "79,99 lei"
+    ]
+}{
+    "Journey to Star Wars: The Rise of Skywalker, Paperback": [
+        "Classified",
+        "82,99 lei"
+    ]
+}{
+    "How Star Wars Conquered the Universe, Paperback": [
+        "Chris Taylor",
+        "60,99 lei"
+    ]
+}{
+    "Star Wars Adventures: Destroyer Down, Paperback": [
+        "Scott Beatty",
+        "50,99 lei"
+    ]
+}{
+    "Strategy Strikes Back: How Star Wars Explains Modern Military Conflict, Hardcover": [
+        "Max Brooks",
+        "148,99 lei"
+    ]
+}{
+    "Star Wars: Adventures in Wild Space (Set)": [
+        "Lucy Ruth Cummins",
+        "937,99 lei"
+    ]
+}{
+    "Ultimate Sticker Collection: Star Wars, Paperback": [
+        "Shari Last",
+        "65,99 lei"
+    ]
+}{
+    "Star Wars: Comics, Hardcover": [
+        "Dennis ONeil",
+        "152,99 lei"
+    ]
+}{
+    "Star Wars: Comics, Hardcover": [
+        "Dennis ONeil",
+        "152,99 lei"
+    ]
+}{
+    "Star Wars: Comics, Hardcover": [
+        "Dennis ONeil",
+        "152,99 lei"
+    ]
+}{
+    "Star Wars: Comics, Hardcover": [
+        "Dennis ONeil",
+        "152,99 lei"
+    ]
+}{
+    "Star Wars: Comics, Hardcover": [
+        "Dennis ONeil",
+        "152,99 lei"
+    ]
+}{
+    "Star Wars: Comics, Hardcover": [
+        "Dennis ONeil",
+        "152,99 lei"
+    ]
+}{
+    "Star Wars: Comics, Hardcover": [
+        "Dennis ONeil",
+        "152,99 lei"
+    ]
+}{
+    "Starships, Speeders & Space Stations (Star Wars), Hardcover": [
+        "Golden Books",
+        "25,99 lei"
+    ]
+}{
+    "Journey to Star Wars: The Rise of Skywalker a Finn & Poe Adventure, Paperback": [
+        "Cavan Scott",
+        "36,99 lei"
+    ]
+}{
+    "A Long Time Ago in a Cutting Room Far, Far Away: My Fifty Years Editing Hollywood Hits--Star Wars, Carrie, Ferris Bueller's Day Off, Mission: Impossib, Hardcover": [
+        "Paul Hirsch",
+        "198,99 lei"
+    ]
+}{
+    "101 Unofficial Star Wars Crosswords - Volume 1: A Range of Puzzles from Quick to Expert!, Paperback": [
+        "Malcolm Van London",
+        "82,99 lei"
+    ]
+}{
+    "Star Wars Legends Epic Collection: The Empire Vol. 5, Paperback": [
+        "Dan Thorsland",
+        "204,99 lei"
+    ]
+}{
+    "William Shakespeare's Jedi the Last: Star Wars Part the Eighth, Hardcover": [
+        "Ian Doescher",
+        "73,99 lei"
+    ]
+}{
+    "Star Wars Lightsabers: A Guide to Weapons of the Force, Hardcover": [
+        "Pablo Hidalgo",
+        "85,99 lei"
+    ]
+}{
+    "Star Wars: Age of the Rebellion - Heroes, Paperback": [
+        "Greg Pak",
+        "91,99 lei"
+    ]
+}{
+    "Industrial Light & Magic Presents: Making Solo: A Star Wars Story, Hardcover": [
+        "Rob Bredow",
+        "213,99 lei"
+    ]
+}{
+    "Star Wars: Chewie and the Courageous Kid, Paperback": [
+        "Lucasfilm Press",
+        "30,99 lei"
+    ]
+}{
+    "Star Wars: El Gran Libro de la Galaxia, Hardcover": [
+        "David Reynolds",
+        "262,99 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Star Wars: A Merry Sithmas Pop-Up Book, Hardcover": [
+        "Insight Editions",
+        "76 lei"
+    ]
+}{
+    "Best. Movie. Year. Ever.: How 1999 Blew Up the Big Screen, Paperback": [
+        "Brian Raftery",
+        "66,99 lei"
+    ]
+}{
+    "Jedi Academy 4: A New Class, Paperback": [
+        "Jarrett Krosoczka",
+        "36,99 lei"
+    ]
+}{
+    "Cthulhu: The Ancient One Tribute Box": [
+        "Steve Mockus",
+        "109,99 lei"
+    ]
+}{
+    "Bigtime Piano Popular: Level 4, Paperback": [
+        "Nancy Faber",
+        "42,99 lei"
+    ]
+}{
+    "The Big Book of Random Facts: 1000 Interesting Facts and Trivia, Paperback": [
+        "Bill O'Neill",
+        "69,99 lei"
+    ]
+}{
+    "Yoda, Hardcover": [
+        "***",
+        "66,99 lei"
+    ]
+}{
+    "Closed and Common Orbit, Paperback": [
+        "Becky Chambers",
+        "54,99 lei"
+    ]
+}{
+    "YT-1300 Millennium Falcon Owners' Workshop Manual, Hardcover": [
+        "Ryder Windham",
+        "115 lei"
+    ]
+}{
+    "The Hutt Gambit, Paperback": [
+        "A. C. Crispin",
+        "39,99 lei"
+    ]
+}{
+    "The Force Awakens, Paperback": [
+        "Alan Dean Foster",
+        "50,99 lei"
+    ]
+}{
+    "2nd Grade Math, Paperback": [
+        "Workman Publishing",
+        "44,99 lei"
+    ]
+}{
+    "Princess Diarist, Paperback": [
+        "Carrie Fisher",
+        "60,99 lei"
+    ]
+}{
+    "Become the Force: 9 Lessons on How to Live as a Jediist Master, Paperback": [
+        "Daniel M. Jones",
+        "79,99 lei"
+    ]
+}{
+    "Darth Vader and Son, Hardcover": [
+        "Jeffrey Brown",
+        "60,99 lei"
+    ]
+}{
+    "Art2-D2's Guide to Folding and Doodling, Paperback": [
+        "Tom Angleberger",
+        "36,99 lei"
+    ]
+}{
+    "Easy Riders, Raging Bulls, Paperback": [
+        "Peter Biskind",
+        "79,99 lei"
+    ]
+}{
+    "The Surprise Attack of Jabba the Puppett (Origami Yoda '4), Paperback": [
+        "Tom Angleberger",
+        "40,99 lei"
+    ]
+}{
+    "Rough Guide to Ireland, Paperback": [
+        "***",
+        "97,99 lei"
+    ]
+}{
+    "Art2-D2's Guide to Folding and Doodling (an Origami Yoda Activity Book), Paperback": [
+        "Tom Angleberger",
+        "39,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Geek Dad: Awesomely Geeky Projects and Activities for Dads and Kids to Share, Paperback": [
+        "Ken Denmead",
+        "89,99 lei"
+    ]
+}{
+    "Black Widow Official Movie Special Book, Hardcover": [
+        "Titan Comics",
+        "100,99 lei"
+    ]
+}{
+    "The Science of James Bond: The Super-Villains, Tech, and Spy-Craft Behind the Film and Fiction, Paperback": [
+        "Mark Brake",
+        "74 lei"
+    ]
+}{
+    "You Know You're 50 When.... The Quiz of Your Lifetime, Hardback": [
+        "Mike Haskins",
+        "51,99 lei"
+    ]
+}{
+    "Dark Side of the Moon, Paperback": [
+        "Jeramey Kraatz",
+        "86 lei"
+    ]
+}{
+    "Empress, Paperback": [
+        "S. J. Kincaid",
+        "49 lei"
+    ]
+}{
+    "Art of Mondo, Hardback": [
+        "***",
+        "305 lei"
+    ]
+}{
+    "Splintered Suns, Paperback": [
+        "Michael Cobley",
+        "61 lei"
+    ]
+}{
+    "How To Write a Great Story, Paperback": [
+        "Caroline Lawrence",
+        "43 lei"
+    ]
+}{
+    "Christian Wisdom of the Jedi Masters, Paperback": [
+        "Dick Staub",
+        "98 lei"
+    ]
+}{
+    "New Hope, Paperback": [
+        "Ace Landers",
+        "31 lei"
+    ]
+}{
+    "Droid Tales, Hardback": [
+        "Michael Price",
+        "37 lei"
+    ]
+}{
+    "The Lego Book, New Edition: With Exclusive Lego Brick [With Toy], Hardcover": [
+        "Daniel Lipkowitz",
+        "151,99 lei"
+    ]
+}{
+    "The Making of Tron: How Tron Changed Visual Effects and Disney Forever, Paperback": [
+        "William Kallay",
+        "149,99 lei"
+    ]
+}{
+    "Night Train to Rigel, Paperback": [
+        "Timothy Zahn",
+        "84,99 lei"
+    ]
+}{
+    "Bullied: What Every Parent, Teacher, and Kid Needs to Know about Ending the Cycle of Fear, Paperback": [
+        "Carrie Goldman",
+        "97,99 lei"
+    ]
+}{
+    "Spellsinger, Paperback": [
+        "Alan Dean Foster",
+        "89,99 lei"
+    ]
+}{
+    "Grimjack Omnibus 2, Paperback": [
+        "John Ostrander",
+        "248,99 lei"
+    ]
+}{
+    "The Jasons: The Secret History of Science's Postwar Elite, Paperback": [
+        "Ann K. Finkbeiner",
+        "74,99 lei"
+    ]
+}{
+    "Fractals: The Patterns of Chaos: Discovering a New Aesthetic of Art, Science, and Nature (a Touchstone Book), Paperback": [
+        "John Briggs",
+        "174,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "In Praise of Barbarians: Essays Against Empire, Paperback": [
+        "Mike Davis",
+        "74,99 lei"
+    ]
+}{
+    "Jedi Academy, Paperback": [
+        "Jeffrey Brown",
+        "36,99 lei"
+    ]
+}{
+    "Pilot X, Paperback": [
+        "Tom Merritt",
+        "65 lei"
+    ]
+}{
+    "The Princess Diarist, Paperback": [
+        "Carrie Fisher",
+        "88,99 lei"
+    ]
+}{
+    "Fiskadoro, Paperback": [
+        "Denis Johnson",
+        "74,99 lei"
+    ]
+}{
+    "Pirate King, Paperback": [
+        "Huw Powell",
+        "42,99 lei"
+    ]
+}{
+    "Darth Vader and Friends, Hardcover": [
+        "Jeffrey Brown",
+        "66,99 lei"
+    ]
+}{
+    "Kindergarten Math Skills, Paperback": [
+        "Workman Publishing",
+        "44,99 lei"
+    ]
+}{
+    "The Official Bob's Burgers Coloring Book, Paperback": [
+        "Loren Bouchard",
+        "66,99 lei"
+    ]
+}{
+    "Frankenstein Dreams: A Connoisseur's Collection of Victorian Science Fiction, Paperback": [
+        "Michael Sims",
+        "91,99 lei"
+    ]
+}{
+    "Commander Toad and the Planet of the Grapes, Paperback": [
+        "Jane Yolen",
+        "29,99 lei"
+    ]
+}{
+    "How to Draw Sci-Fi Utopias and Dystopias: Create the Futuristic Humans, Aliens, Robots, Vehicles, and Cities of Your Dreams and Nightmares, Paperback": [
+        "Prentis Rollins",
+        "128,99 lei"
+    ]
+}{
+    "Book of Sith: Secrets from the Dark Side, Hardcover": [
+        "Daniel Wallace",
+        "109,99 lei"
+    ]
+}{
+    "The Sea of Trolls, Paperback": [
+        "Nancy Farmer",
+        "44,99 lei"
+    ]
+}{
+    "The Geek's Guide to Dating, Hardcover": [
+        "Eric Smith",
+        "73,99 lei"
+    ]
+}{
+    "Stormtrooper Class Clowns, Paperback": [
+        "Ace Landers",
+        "32,99 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "Wishful Drinking, Paperback": [
+        "Carrie Fisher",
+        "74 lei"
+    ]
+}{
+    "I Am C-3PO: The Inside Story, Hardcover": [
+        "Anthony Daniels",
+        "124,99 lei"
+    ]
+}{
+    "Defy the Fates, Hardcover": [
+        "Claudia Gray",
+        "96,99 lei"
+    ]
+}{
+    "Your First Step Into a Larger World: An Introduction to Walking the Jedi Path, Paperback": [
+        "L. Christopher Bird",
+        "53 lei"
+    ]
+}{
+    "Grimjack Omnibus 1, Paperback": [
+        "John Ostrander",
+        "247,99 lei"
+    ]
+}{
+    "Starcraft: Scavengers (Starcraft Volume 1), Paperback": [
+        "Jody Houser",
+        "91,99 lei"
+    ]
+}{
+    "DreamWorks' Dragons, Paperback": [
+        "***",
+        "30,99 lei"
+    ]
+}{
+    "The Shoemaker's Wife, Paperback": [
+        "Adriana Trigiani",
+        "167,99 lei"
+    ]
+}{
+    "Berlin in the 1920s, Hardcover": [
+        "Rainer Taschen, Rainer Metzger",
+        "60,99 lei"
+    ]
+}{
+    "A Century of Horse Racing Memories, Paperback": [
+        "Drew Slater",
+        "69,99 lei"
+    ]
+}{
+    "Exploring Space: 1999: An Episode Guide and Complete History of the Mid-1970s Science Fiction Television Series, Paperback": [
+        "John Kenneth Muir",
+        "150,99 lei"
+    ]
+}{
+    "HMS Nightingale: Alexis Carew #4, Hardcover": [
+        "J. a. Sutherland",
+        "193,99 lei"
+    ]
+}{
+    "Brummett Echohawk: Pawnee Thunderbird and Artist, Hardcover": [
+        "Kristin M. Youngbull",
+        "191,99 lei"
+    ]
+}{
+    "The Romans for Dummies, Paperback": [
+        "Guy De La Bedoyere",
+        "117,99 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Buried Giant, Paperback": [
+        "Kazuo Ishiguro",
+        "79 lei"
+    ]
+}{
+    "The Flash: The Secret Files of Barry Allen: The Ultimate Guide to the Hit TV Show, Hardcover": [
+        "Warner Brothers",
+        "88,99 lei"
+    ]
+}{
+    "Star Trek Voyager: A Celebration, Hardcover": [
+        "Ben Robinson",
+        "159,99 lei"
+    ]
+}{
+    "My First Book of Shapes (Montessori World of Achievements), Board book": [
+        "Chiara Piroddi",
+        "48 lei"
+    ]
+}{
+    "Bit Wars: Cyber Crime, Hacking & Information Warfare, Paperback": [
+        "Thomas S. Hyslip",
+        "34,99 lei"
+    ]
+}{
+    "Star Compass, Paperback": [
+        "Anthea Sharp",
+        "66,99 lei"
+    ]
+}{
+    "Dark Star: A Biography of Vivien Leigh, Paperback": [
+        "Alan Strachan",
+        "88,99 lei"
+    ]
+}{
+    "Lean Analytics: The Ultimate Guide to an Agile Way of Analytics, Advanced Analytics, and Data Science for a Superior Way to Build Star, Hardcover": [
+        "James Edge",
+        "148,99 lei"
+    ]
+}{
+    "Weird and Wonderful Animals, Hardback": [
+        "***",
+        "80 lei"
+    ]
+}{
+    "The Practical Beekeeper Volume III Advanced Beekeeping Naturally, Paperback": [
+        "Michael Bush",
+        "149,99 lei"
+    ]
+}{
+    "The Kobe Code: Eight Principles for Success: An Insider's Look Into Los Angeles Laker Kobe Bryant's Warrior Life & the Code He Lives, Paperback": [
+        "Pat Mixon",
+        "60,99 lei"
+    ]
+}{
+    "Ships of the Line, Hardcover": [
+        "Margaret Clark",
+        "128,99 lei"
+    ]
+}{
+    "President Trump and the New World Order: The Ramtha Trump Prophecy, Paperback": [
+        "Michael Knight",
+        "74,99 lei"
+    ]
+}{
+    "Five Star Billionaire, Paperback": [
+        "Tash Aw",
+        "54,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "Dress Scandinavian: Style You Life and Wardrobe the Danish Way, Hardcover": [
+        "Pernille Teisbaek",
+        "103,99 lei"
+    ]
+}{
+    "365 Surprising and Inspirational Rock Star Quotes, Hardcover": [
+        "Alison Taylor",
+        "138,99 lei"
+    ]
+}{
+    "Beyond the Next Star, Paperback": [
+        "Melody Johnson",
+        "70,98 lei"
+    ]
+}{
+    "Distant Star, Paperback": [
+        "Roberto Bolano",
+        "54,99 lei"
+    ]
+}{
+    "Memorial, Paperback": [
+        "Bryan Washington",
+        "79,98 lei"
+    ]
+}{
+    "Tamarind & the Star of Ishta, Paperback": [
+        "Jasbinder Bilan",
+        "42,99 lei"
+    ]
+}{
+    "Catching A Star: My Story Of Hope, Paperback": [
+        "Donny Won Suh",
+        "116,99 lei"
+    ]
+}{
+    "Memorial Star: The story of Edwin R. Woodriffe, the first African-American FBI agent killed in the line of duty, Paperback": [
+        "Lee Woodriffe",
+        "118,99 lei"
+    ]
+}{
+    "Baker's Deadly Dozen, Paperback": [
+        "Livia J. Washburn",
+        "80 lei"
+    ]
+}{
+    "Witching On A Star, Paperback": [
+        "Erin Bedford",
+        "75 lei"
+    ]
+}{
+    "Lone Star Odyssey: First Steps, Paperback": [
+        "David Wilson",
+        "80 lei"
+    ]
+}{
+    "Texas Women First: Leading Ladies of Lone Star History, Paperback": [
+        "Sherrie S. McLeRoy",
+        "109,99 lei"
+    ]
+}{
+    "Armoured Dinosaurs, Hardback": [
+        "Anna Cessa",
+        "59 lei"
+    ]
+}{
+    "Before the Broken Star, Hardcover": [
+        "Emily R. King",
+        "103,99 lei"
+    ]
+}{
+    "Famished Heart. The Sunday Times Crime Club Star Pick, Paperback": [
+        "Nicola White",
+        "61 lei"
+    ]
+}{
+    "Hollywood's Star-Crossed Blonde Bombshells: The Lives of Jean Harlow, Carole Lombard, Marilyn Monroe, and Jayne Mansfield, Paperback": [
+        "Charles River Editors",
+        "59,99 lei"
+    ]
+}{
+    "Wiccan Book of Shadows Guide: How to make your own book of shadows, Paperback": [
+        "Dayanara Blue Star",
+        "61,99 lei"
+    ]
+}{
+    "Childhood of Famous Americans Ready-To-Read Value Pack: Abe Lincoln and the Muddy Pig; Albert Einstein; John Adams Speaks for Freedom; George Washingt, Paperback": [
+        "Various",
+        "101,99 lei"
+    ]
+}{
+    "Horoscope Compatibility For All the Zodiac Signs: Find Love in Your Astrology Star Sign, Paperback": [
+        "Rosemary Breen",
+        "41,99 lei"
+    ]
+}{
+    "This Was Never About Basketball, Paperback": [
+        "Craig Leener",
+        "68 lei"
+    ]
+}{
+    "Mary Nolan, Ziegfeld Girl and Silent Movie Star: A Biography Including Her 1941 Memoir, Paperback": [
+        "Louise Carley Lewisson",
+        "380,99 lei"
+    ]
+}{
+    "Texas Myths and Legends: The True Stories Behind History's Mysteries, Paperback": [
+        "Donna Ingham",
+        "84,99 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Yellow Star, Red Star: Holocaust Remembrance After Communism, Hardcover": [
+        "Jelena Subotic",
+        "192 lei"
+    ]
+}{
+    "Child Star, Paperback": [
+        "Brian box Brown",
+        "102,99 lei"
+    ]
+}{
+    "The Socially Intelligent Project Manager: Soft Skills That Prevent Hard Days, Paperback": [
+        "Kim Wasson",
+        "152,99 lei"
+    ]
+}{
+    "Girl Sailing Aboard the Western Star, Paperback": [
+        "Ra Anderson",
+        "70,99 lei"
+    ]
+}{
+    "The Rock Star Chronicles: Truths, Confessions and Wisdom from the Music Legends That Set Us Free., Hardcover": [
+        "Ray Shasho",
+        "219 lei"
+    ]
+}
